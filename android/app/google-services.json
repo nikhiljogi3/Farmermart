@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "783077728931",
+    "firebase_url": "https://farm-easy-ltmk31-default-rtdb.firebaseio.com",
+    "project_id": "farm-easy-ltmk31",
+    "storage_bucket": "farm-easy-ltmk31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783077728931:android:a89c1ccafb8e7506f29516",
+        "android_client_info": {
+          "package_name": "com.mealplanner.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783077728931-3f8b8bqufuggg16jr5v2ci7pdbp17bnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-V5pVLNj2U48dlQKPKi_U7p-8u5BFVcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783077728931-3f8b8bqufuggg16jr5v2ci7pdbp17bnr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "783077728931-5el6ur13rs1kfibaa8737f82j4dedvme.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mealplanner.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783077728931:android:5b22d083422160c8f29516",
+        "android_client_info": {
+          "package_name": "com.mycompany.farmermart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783077728931-3f8b8bqufuggg16jr5v2ci7pdbp17bnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-V5pVLNj2U48dlQKPKi_U7p-8u5BFVcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783077728931-3f8b8bqufuggg16jr5v2ci7pdbp17bnr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "783077728931-5el6ur13rs1kfibaa8737f82j4dedvme.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mealplanner.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
