@@ -6,6 +6,6 @@ A new Flutter project.
 
 Flutter projects are built to run on the Flutter _stable_ release.
 
-https://webapp.diawi.com/install/ato9mp
+https://drive.google.com/file/d/163DgRMIM3lIJUt0nAaCTSDmh8aeljFwq/view?usp=sharing
 download app link
 
